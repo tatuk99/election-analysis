@@ -36,6 +36,9 @@ Here is the overall breakdown of our results for this analysis:
 ## Election Audit Summary
 
 The python script created for this analysis was very useful in analyzing the provided (and somewhat limited) set of election data. However, with some modifications, it can be used on larger datasets to determine similar results as what we found here. 
+
 It is very easy to update the dataset that is analyzed - we simply reference a different csv file in the script. This make this script versatile and easy to use throughout various data analyses involving elections (maybe we can split this analysis by various regions in Colorado and look at specific regional data if that is of interest).
+
 Additionally, in the current script, we are only examining two columns in the dataset provided. By adding just a handful of new lines, we can expand this analysis to many more columns, and compile similar data we compiled for the candidates and counties. Potentially some sort of demographic analysis by county and candidate would be interesting to look at in order to determine who voted for which candidate, (such as adding a column with ethnicity or household income, or really anything else would be interesting to compile) and referencing that to specific candidates and counties. 
+
 Any sort of new ideas that can be included in the form of data in column formatting will make this script work, so it's really up to the people determining what they would like to analyze next.

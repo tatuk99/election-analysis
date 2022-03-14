@@ -20,6 +20,9 @@ This analysis was created to determine the winning candidate for an election in 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+Here is the overall breakdown of our results for this analysis:
+![Results](Resources/Analysis_results_screenshot.png)
   
 	
 ## Election Audit Summary

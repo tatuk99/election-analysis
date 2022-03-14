@@ -34,3 +34,8 @@ Here is the overall breakdown of our results for this analysis:
   
 	
 ## Election Audit Summary
+
+The python script created for this analysis was very useful in analyzing the provided (and somewhat limited) set of election data. However, with some modifications, it can be used on larger datasets to determine the same kind of results as we found here. In the current script, we are only examining two columns in the dataset provided. By adding just a handful of new lines, we can expand this analysis to many more columns, and compile similar data we compiled for the candidates and counties. Potentially some sort of demographic analysis by county and candidate would be interesting to look at (mainly from the perspective of candidates, to see who voted for which candidate, and a column with ethnicity or household income, or really anything else would be interesting to compile. 
+
+We can modify the specific dataset that is being looked at , along with adding in certain elements if other things are needed to be analyzed, such as demographic data, who was more likely to vote for which candidate from each region, etc. Really, any sort of information that can be added to the current csv file we used for this analysis would be possible. 
+In the current script, we are only examining two columns in the dataset provided. We can add a couple more lines that will include more columns and expand our analysis in combination with the current data analyzed. 
